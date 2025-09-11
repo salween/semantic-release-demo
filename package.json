@@ -1,0 +1,24 @@
+{
+  "name": "semantic-release-demo-package",
+  "version": "1.0.0",
+  "description": "Orchard Core + Semantic Release",
+  "author": "Salween Solutions",
+  "private": true,
+  "scripts": {
+    "semantic-release": "semantic-release"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:salween/semantic-release-demo.git"
+  },
+  "release": {
+    "branch": "release",
+    "tagFormat": "${version}"
+  },
+  "publishConfig": {
+    "access": "restricted"
+  },
+  "devDependencies": {
+    "semantic-release": "^24.2.8"
+  }
+}

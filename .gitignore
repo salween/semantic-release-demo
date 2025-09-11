@@ -58,3 +58,10 @@ _ReSharper*/
 .DS_Store
 Thumbs.db
 ehthumbs.db
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
