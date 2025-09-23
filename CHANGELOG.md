@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/salween/semantic-release-demo/compare/1.2.0...1.3.0) (2025-09-23)
+
+
+### Features
+
+* update package ([11cb8af](https://github.com/salween/semantic-release-demo/commit/11cb8af44906b075a1917f1757455e80adc72abe))
+
 # [1.2.0](https://github.com/salween/semantic-release-demo/compare/1.1.0...1.2.0) (2025-09-23)
 
 
