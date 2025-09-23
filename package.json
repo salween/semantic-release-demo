@@ -28,7 +28,8 @@
         {
           "assets": ["CHANGELOG.md"]
         }
-      ]
+      ],
+      "@semantic-release/github"
     ]
   },
   "publishConfig": {
