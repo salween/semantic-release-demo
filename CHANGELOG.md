@@ -1,3 +1,8 @@
+## [1.7.4] - 2025-09-24
+
+### Bug Fixes
+- modify changelog.md
+
 ## [1.7.3] - 2025-09-24
 
 ### Bug Fixes
@@ -32,4 +37,3 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Bug Fixes
 - modify changelog #1
-
