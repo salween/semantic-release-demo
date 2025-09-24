@@ -1,3 +1,14 @@
+## [1.4.0] - 2025-09-24
+
+### Bug Fixes
+
+* modify @semantic-release/release-notes-generator ([c1dd8d8](https://github.com/salween/semantic-release-demo/commit/c1dd8d8544088c09f8cb9ad17d0019a468acda45))
+
+
+### Features
+
+* update commit message ([7c0e4bf](https://github.com/salween/semantic-release-demo/commit/7c0e4bf28eae5d44503dc41ddf3a1fbd3a6cdf8c))
+
 # [1.3.0](https://github.com/salween/semantic-release-demo/compare/1.2.0...1.3.0) (2025-09-23)
 
 
