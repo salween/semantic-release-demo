@@ -1,3 +1,8 @@
+## [1.7.3] - 2025-09-24
+
+### Bug Fixes
+- modify changelog.md
+
 # Changelog
 
 All notable changes to this project will be documented in this file.
