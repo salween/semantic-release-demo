@@ -1,38 +1,3 @@
-## [1.4.0] - 2025-09-24
-
-### Bug Fixes
-
-* modify @semantic-release/release-notes-generator ([c1dd8d8](https://github.com/salween/semantic-release-demo/commit/c1dd8d8544088c09f8cb9ad17d0019a468acda45))
-
-
-### Features
-
-* update commit message ([7c0e4bf](https://github.com/salween/semantic-release-demo/commit/7c0e4bf28eae5d44503dc41ddf3a1fbd3a6cdf8c))
-
-# [1.3.0](https://github.com/salween/semantic-release-demo/compare/1.2.0...1.3.0) (2025-09-23)
-
-
-### Features
-
-* update package ([11cb8af](https://github.com/salween/semantic-release-demo/commit/11cb8af44906b075a1917f1757455e80adc72abe))
-
-# [1.2.0](https://github.com/salween/semantic-release-demo/compare/1.1.0...1.2.0) (2025-09-23)
-
-
-### Bug Fixes
-
-* update CHANGELOG ([dd4dee2](https://github.com/salween/semantic-release-demo/commit/dd4dee29a544c01d11c6c69e5779a2d08309ddb7))
-* update CHANGELOG ([577f088](https://github.com/salween/semantic-release-demo/commit/577f0883ee7170cb74e31e4fa2f24b31336f0304))
-
-
-### Features
-
-* add plugins ([2de45c4](https://github.com/salween/semantic-release-demo/commit/2de45c4cb51f5f330df8821c12e281988170e1fd))
-* update CHANGELOG ([a43620b](https://github.com/salween/semantic-release-demo/commit/a43620b8e3aad7d37f606a177ce63ff37d1ede50))
-* update CHANGELOG 1 ([2b849cc](https://github.com/salween/semantic-release-demo/commit/2b849cccff793df80a3e8004cc3576970084016d))
-* update CHANGELOG 1.1.0 ([1ce9a46](https://github.com/salween/semantic-release-demo/commit/1ce9a46d41826bba3c06dfd5822276e642163b14))
-* update package ([4492e15](https://github.com/salween/semantic-release-demo/commit/4492e1503c489cf339ca743aa54f4af26ec87573))
-
 # Changelog
 
 All notable changes to this project will be documented in this file.
