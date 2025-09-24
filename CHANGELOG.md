@@ -1,3 +1,7 @@
+## [1.5.1] - 2025-09-24
+### Bug Fixes
+- update changelog.md []
+
 # Changelog
 
 All notable changes to this project will be documented in this file.
