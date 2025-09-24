@@ -1,3 +1,7 @@
+## [1.5.0] - 2025-09-24
+### Features
+- modify @semantic-release/release-notes-generator []
+
 ## [1.4.0] - 2025-09-24
 
 ### Bug Fixes
