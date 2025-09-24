@@ -1,3 +1,8 @@
+## [1.7.5] - 2025-09-24
+
+### Bug Fixes
+- modify changelog.md
+
 ## [1.7.4] - 2025-09-24
 
 ### Bug Fixes
