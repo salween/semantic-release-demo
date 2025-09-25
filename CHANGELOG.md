@@ -1,3 +1,10 @@
+## [1.8.0] - 2025-09-25
+
+### Bug Fixes
+- update changelog [#1](https://github.com/salween/semantic-release-demo/issues/1)
+### Features
+- update changelog
+
 ## [1.7.10] - 2025-09-25
 
 ### Bug Fixes
