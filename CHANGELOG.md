@@ -21,18 +21,6 @@ E
 E
 E
 
-## [1.7.7] - 2025-09-24A
-A
-A
-### Bug FixesB
-- modify changelog.md [#1](https://github.com/salween/semantic-release-demo/issues/1)C
-D
-D
-D
-E
-E
-E
-
 ## [1.7.6] - 2025-09-24
 
 ### Bug Fixes
