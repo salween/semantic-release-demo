@@ -1,3 +1,13 @@
+## [1.7.8] - 2025-09-25A
+### Bug Fixes
+- update changelogC
+D
+D
+D
+E
+E
+E
+
 ## [1.7.7] - 2025-09-24A
 A
 A
