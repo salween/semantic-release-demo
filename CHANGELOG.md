@@ -1,3 +1,10 @@
+## [1.9.4] - 2025-09-29
+
+### Bug Fixes
+- update changelog
+
+Z1
+
 ## [1.9.3] - 2025-09-29
 
 ### Bug Fixes
