@@ -1,3 +1,11 @@
+## [1.10.0] - 2025-09-29
+
+### Bug Fixes
+- update changelog
+
+### Features
+- update package.json
+
 # Changelog
 
 All notable changes to this project will be documented in this file.
