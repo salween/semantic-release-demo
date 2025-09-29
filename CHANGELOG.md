@@ -3,43 +3,6 @@
 ### Bug Fixes
 - update changelog
 
-## [1.10.5] - 2025-09-29
-
-### Bug Fixes
-- update chagenlog
-
-## [1.10.4] - 2025-09-29
-
-### Bug Fixes
-- update changelog
-
-<!-- spacer -->
-
-## [1.10.3] - 2025-09-29
-
-### Bug Fixes
-- update changelog
-
-<!-- spacer -->
-
-## [1.10.2] - 2025-09-29
-
-### Bug Fixes
-- update changelog
-
-## [1.10.1] - 2025-09-29
-
-### Bug Fixes
-- update changelog
-
-## [1.10.0] - 2025-09-29
-
-### Bug Fixes
-- update changelog
-
-### Features
-- update package.json
-
 # Changelog
 
 All notable changes to this project will be documented in this file.
