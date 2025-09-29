@@ -1,3 +1,11 @@
+## [1.11.0] - 2025-09-29
+
+### Bug Fixes
+- update changelog
+
+### Features
+- update package.json
+
 ## [1.10.6] - 2025-09-29
 
 ### Bug Fixes
