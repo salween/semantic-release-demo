@@ -1,3 +1,11 @@
+## [1.9.0] - 2025-09-29
+
+### Bug Fixes
+- update changelog
+
+### Features
+- update package.json
+
 ## [1.8.1] - 2025-09-29
 
 ### Bug Fixes
