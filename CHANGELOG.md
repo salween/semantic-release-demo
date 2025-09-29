@@ -1,3 +1,8 @@
+## [1.10.2] - 2025-09-29
+
+### Bug Fixes
+- update changelog
+
 ## [1.10.1] - 2025-09-29
 
 ### Bug Fixes
