@@ -1,3 +1,8 @@
+## [1.9.6] - 2025-09-29
+
+### Bug Fixes
+- update changelog
+
 ## [1.9.5] - 2025-09-29
 
 ### Bug Fixes
