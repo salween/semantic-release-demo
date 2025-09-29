@@ -1,3 +1,8 @@
+## [1.10.5] - 2025-09-29
+
+### Bug Fixes
+- update chagenlog
+
 ## [1.10.4] - 2025-09-29
 
 ### Bug Fixes
