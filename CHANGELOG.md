@@ -48,10 +48,7 @@ E
 ### Bug Fixes
 - modify changelog.md
 
-## [1.7.3] - 2025-09-24
 
-### Bug Fixes
-- modify changelog.md
 
 # Changelog
 
