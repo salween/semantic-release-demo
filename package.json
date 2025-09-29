@@ -22,7 +22,7 @@
           "writerOpts": {
             "headerPartial": "## [{{version}}] - {{date}}",
             "commitPartial": "- {{subject}}",
-            "mainTemplate": "\n{{> header}}\n\n\n{{#each commitGroups}}### {{title}}\n{{#each commits}}{{> commit}}\n\n{{/each}}\n{{/each}}\n"
+            "mainTemplate": "\n\n\n\n\n{{> header}}\n\n\n{{#each commitGroups}}### {{title}}\n{{#each commits}}{{> commit}}\n\n{{/each}}\n{{/each}}\n\n\n\n\n"
           }
         }
       ],
