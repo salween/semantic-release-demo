@@ -1,3 +1,8 @@
+## [1.8.1] - 2025-09-29
+
+### Bug Fixes
+- update changelog
+
 ## [1.8.0] - 2025-09-25
 
 ### Bug Fixes
