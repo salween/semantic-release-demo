@@ -1,3 +1,10 @@
+## [1.10.3] - 2025-09-29
+
+### Bug Fixes
+- update changelog
+
+<!-- spacer -->
+
 ## [1.10.2] - 2025-09-29
 
 ### Bug Fixes
