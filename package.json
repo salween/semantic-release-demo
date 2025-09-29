@@ -20,9 +20,9 @@
         "@semantic-release/release-notes-generator",
         {
           "writerOpts": {
-            "headerPartial": "\n## [{{version}}] - {{date}}",
+            "headerPartial": "## [{{version}}] - {{date}}",
             "commitPartial": "- {{subject}}",
-            "mainTemplate": "{{> header}}\n\n\n{{#each commitGroups}}### {{title}}\n{{#each commits}}{{> commit}}\n\n{{/each}}\n{{/each}}\n"
+            "mainTemplate": "{{> header}}\n\n\n{{#each commitGroups}}### {{title}}\n{{#each commits}}{{> commit}}\n\n{{/each}}\n{{/each}}\n "
           }
         }
       ],
