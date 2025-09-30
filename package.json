@@ -17,16 +17,7 @@
     "plugins": [
       "@semantic-release/commit-analyzer",
       [
-        "@semantic-release/release-notes-generator",
-        {
-          "writerOpts": {
-            "headerPartial": "## [{{version}}] - {{date}}",
-            "commitPartial": "- {{subject}}",
-            "mainTemplate": "{{> header}}\n\n\n{{#each commitGroups}}### {{title}}\n{{#each commits}}{{> commit}}\n\n{{/each}}\n{{/each}}"
-          },
-          "linkCompare": false,
-          "linkReferences": false
-        }
+        "@semantic-release/release-notes-generator"
       ],
       [
         "@semantic-release/changelog",
