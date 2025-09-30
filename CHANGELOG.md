@@ -11,6 +11,7 @@
 
 * Update Package.json ([ee69c11](https://github.com/salween/semantic-release-demo/commit/ee69c11f1ffae38f47364ae8eca3bcd16e6f12f9))
 
+
 ## [Unreleased]
 
 ### Added
