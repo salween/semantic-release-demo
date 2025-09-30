@@ -1,3 +1,10 @@
+## [1.13.1](https://github.com/salween/semantic-release-demo/compare/1.13.0...1.13.1) (2025-09-30)
+
+
+### Bug Fixes
+
+* Update CHANGELOG ([f58810e](https://github.com/salween/semantic-release-demo/commit/f58810e5dfe86f52110534f0946ab6c0cc1ead79))
+
 # [1.13.0](https://github.com/salween/semantic-release-demo/compare/1.12.3...1.13.0) (2025-09-30)
 
 
