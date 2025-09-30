@@ -1,3 +1,10 @@
+## [1.12.3](https://github.com/salween/semantic-release-demo/compare/1.12.2...1.12.3) (2025-09-30)
+
+
+### Bug Fixes
+
+* package ([ee1ddf0](https://github.com/salween/semantic-release-demo/commit/ee1ddf046e9ac82bbd2dc89bf9516f817a625d6a))
+
 ## [1.12.2] - 2025-09-30
 
 ### Bug Fixes
