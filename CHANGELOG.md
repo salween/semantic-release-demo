@@ -1,3 +1,10 @@
+# [1.14.0](https://github.com/salween/semantic-release-demo/compare/1.13.1...1.14.0) (2025-10-01)
+
+
+### Features
+
+* Update CHANGELOG.MD ([88c1a11](https://github.com/salween/semantic-release-demo/commit/88c1a116e697091879ca3f87cd5f8b8db4da1d0b))
+
 ## [1.13.1](https://github.com/salween/semantic-release-demo/compare/1.13.0...1.13.1) (2025-09-30)
 
 
@@ -40,4 +47,3 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
-
